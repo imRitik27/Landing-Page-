@@ -1,18 +1,6 @@
 # Landing-Page-
-The HTML file defines the structure of the page.
-It includes a form where participants can enter their name, email, and contact number.
-When users submit the form, it triggers the JavaScript logic.
-Usage: Visitors will interact with this form to express interest in the cosmic adventure tours.
-CSS (styles.css):
-The CSS file styles the page elements.
-It sets fonts, colors, spacing, and alignment.
-Usage: Enhances the visual appeal and ensures a consistent design.
-JavaScript (script.js):
-The JavaScript file handles form submission.
-It prevents the default form behavior (page reload).
-Retrieves input values (name, email, phone).
-Displays a confirmation message with the participant’s details.
-Usage: Collects user data and provides feedback after submission.
+OCTANET PROJECT
+
 
 
 
